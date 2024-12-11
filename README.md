@@ -7,32 +7,32 @@ This project showcases the powerful capabilities of Keras's ImageDataGenerator f
 🎭 Dynamic Image Transformations<br>
 Generate realistic variations of input images using techniques like:<br>
 
-Rotation, Zooming, Shearing, and Shifting<br>
-Horizontal Flipping for mirrored perspectives<br>
-Intelligent filling of missing pixels using nearest mode<br>
+  - Rotation, Zooming, Shearing, and Shifting<br>
+  - Horizontal Flipping for mirrored perspectives<br>
+  - Intelligent filling of missing pixels using nearest mode<br>
 
 📂 Batch Processing for Efficiency<br>
-Automatically produce and save batches of augmented images, making it easy to scale up datasets for training neural networks.<br>
+  - Automatically produce and save batches of augmented images, making it easy to scale up datasets for training neural networks.<br>
 
 🖼️ Real-Time Integration<br>
-Incorporate augmentation seamlessly into your model training pipeline, enabling real-time transformations during training.<br>
+  - Incorporate augmentation seamlessly into your model training pipeline, enabling real-time transformations during training.<br>
 
 ## 🛠️ Key Features<br>
 
 ⚡ Comprehensive Augmentation Pipeline<br>
-Easily configure and apply multiple transformations to handle data scarcity and improve model generalization.<br>
+  - Easily configure and apply multiple transformations to handle data scarcity and improve model generalization.<br>
 
 📏 Flexible Input Handling<br>
-Supports images of varying dimensions and formats, converting them into machine-learning-ready arrays.<br>
+  - Supports images of varying dimensions and formats, converting them into machine-learning-ready arrays.<br>
 
 🎯 Enhanced Model Performance<br>
-Augmented datasets improve model resilience to overfitting and ensure better performance on unseen data.<br>
+  - Augmented datasets improve model resilience to overfitting and ensure better performance on unseen data.<br>
 
 ## 🔧 Technologies Used<br>
 
-Python 🐍: The backbone of the implementation<br>
-TensorFlow/Keras 🚀: For building and configuring the augmentation pipeline<br>
-NumPy 📊: For efficient array manipulation<br>
+  - Python 🐍: The backbone of the implementation<br>
+  - TensorFlow/Keras 🚀: For building and configuring the augmentation pipeline<br>
+  - NumPy 📊: For efficient array manipulation<br>
 
 ## 🌐 Applications<br>
 
